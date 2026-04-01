@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ankit Kumar 👋
 
-<!--
-**AnkitKumar819/AnkitKumar819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML & AI Engineer** | New Delhi, India
 
-Here are some ideas to get you started:
+Building production-grade ML systems, GenAI applications, and agentic AI workflows for real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+`Python` `LangChain` `LangGraph` `RAG` `MLflow` `Docker` `FastAPI` `Scikit-Learn` `PyTorch` `TensorFlow` `YOLOv5` `AWS`
+
+## 🚀 Featured Projects
+- 🔁 [ML-Pipelines](https://github.com/AnkitKumar819/ML-Pipelines) — Spam Detection with full MLOps pipeline
+- 📊 [ML-FLOW](https://github.com/AnkitKumar819/ML-FLOW) — Experiment tracking with MLflow
+- 📦 [ML-DVC](https://github.com/AnkitKumar819/ML-DVC) — Data versioning for reproducible ML
+- 🐳 [ML-Docker](https://github.com/AnkitKumar819/ML-Docker) — Containerizing ML models
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ankit-kumar-240633378)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF)](https://kaggle.com/ankitkumar981888)
+
+---
+*Open to ML/AI Engineer roles — DM me on LinkedIn!*
